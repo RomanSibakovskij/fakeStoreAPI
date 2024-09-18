@@ -1,4 +1,4 @@
-name: Star Wars CI pipeline through Postman
+name: fakeStore CI pipeline through Postman
 
 on: push
 
